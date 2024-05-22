@@ -1,4 +1,4 @@
-The following is code used to perform analysis for the paper entitled "Physiological constraints on the rapid dopaminergic modulation of striatal reward activity"
+The following is code used to perform analysis for the paper entitled "Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling"
 
 1. get_selectivity_paired and get_selectivity_unpaired scripts (with roc_prepare_Data)
 -Used to obtain selectivity index and p-value for ephys data. Paired is typically used when comparing a single event to baseline such as reward delivery to baseline or
